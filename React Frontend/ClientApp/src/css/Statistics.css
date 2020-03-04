@@ -1,0 +1,17 @@
+﻿
+.level-chart-container {
+    text-align: center;
+}
+
+.level-chart-label {
+    width: 100%;
+    font-size: 150%;
+}
+.stats-container {
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr;
+    grid-template-rows: auto 1fr;
+}
+.level-chart {
+    width: 100%;
+}
